@@ -19,3 +19,5 @@ chmod +x home_service.sh
 
 ./home_service.sh
 
+![image](https://github.com/Smilingliu/a-full-home-service-robot-capable-of-navigating-to-pick-up-and-deliver-virtual-objects/blob/master/src/Screenshot%20from%202019-05-25%2021-16-17.png)
+![image](https://github.com/Smilingliu/a-full-home-service-robot-capable-of-navigating-to-pick-up-and-deliver-virtual-objects/blob/master/src/Screenshot%20from%202019-05-25%2021-19-05.png)
